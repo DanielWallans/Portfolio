@@ -1,7 +1,5 @@
 # Portfolio - Daniel Wallans
 
-![Captura de tela 2025-01-28 160018](https://github.com/user-attachments/assets/807c1d6a-de60-4f73-97e6-6329191d379f)
-
 ## Descrição do Projeto
 Este é o meu portfólio pessoal, onde apresento minhas habilidades, projetos e informações de contato. O objetivo deste projeto é demonstrar minhas competências em desenvolvimento Front-End e servir como uma vitrine para potenciais empregadores e colaboradores.
 
