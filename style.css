@@ -331,13 +331,15 @@ body {
 }
 
 .projeto {
-  background-color: 2C2C2F;
+  background-color: #2C2C2F;
   padding: 20px;
   border-radius: 20px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.9);
   width: 100%;
   max-width: 1820px;
 }
+
+
 
 .projeto h3 {
   font-family: 'Teko', sans-serif;
@@ -587,6 +589,8 @@ footer {
     flex-direction: column; 
     text-align: center; 
   }
+  
+
   
 
   .projeto h3 {
